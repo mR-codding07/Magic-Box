@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border:  all  o.4 ese;
+}
+input{
+    background-color: white;
+    height: 25px;
+    width: 200px;
+    margin-top: 10px;
+}
